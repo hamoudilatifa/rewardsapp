@@ -1,0 +1,39 @@
+{
+    "gold": 0,
+    "xp": 85,
+    "level": 1,
+    "completed_quests": [
+        "dents_matin",
+        "devoirs",
+        "lit"
+    ],
+    "purchased_rewards": [
+        {
+            "id": "bedtime_delay",
+            "text": "⏰ Bonus : +20 min avant le dodo",
+            "duration": 1200
+        }
+    ],
+    "owned_reward_ids": [
+        "bedtime_delay"
+    ],
+    "pending_quests": [],
+    "history": [
+        {
+            "text": "🛏️ Faire son lit douillet",
+            "date": "15/06 13:45"
+        },
+        {
+            "text": "🛏️ Faire son lit douillet",
+            "date": "15/06 19:42"
+        },
+        {
+            "text": "🪥 Dents étincelantes (Matin)",
+            "date": "15/06 19:43"
+        },
+        {
+            "text": "📚 Super devoirs",
+            "date": "15/06 19:45"
+        }
+    ]
+}
